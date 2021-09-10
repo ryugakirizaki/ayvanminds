@@ -1,3 +1,2 @@
 # ayvanminds
-First Task
-This is Hemvedh and This is my first repository in github
+Java Objects and Classes Assignments for the mentorship program of Ayvan Minds
